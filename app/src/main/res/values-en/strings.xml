@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Qianbang</string>
+
+    <!--底部导航栏文字-->
+    <string name="main_home">main</string>
+    <string name="main_notify">notify</string>
+    <string name="main_mine">mine</string>
+
+    <!--首页-->
+    <string name="fg_home_tv_hint">"I'm main page"</string>
+
+    <!--通知-->
+    <string name="fg_notify_tv_hint">"I'm notify page"</string>
+
+    <!--我的-->
+    <string name="fg_mine_tv_hint">"I'm mine page"</string>
+</resources>

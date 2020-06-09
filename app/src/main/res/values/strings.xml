@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">企安邦</string>
+
+    <!--底部导航栏文字-->
+    <string name="main_home">首页</string>
+    <string name="main_notify">通知</string>
+    <string name="main_mine">我的</string>
+
+    <!--首页-->
+    <string name="fg_home_tv_hint">我是首页</string>
+
+    <!--通知-->
+    <string name="fg_notify_tv_hint">我是通知页面</string>
+
+    <!--我的-->
+    <string name="fg_mine_tv_hint">我是个人中心页面</string>
+
+</resources>
